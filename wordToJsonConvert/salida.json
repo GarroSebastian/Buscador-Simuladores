@@ -1,0 +1,744 @@
+[
+  {
+    "id": 1,
+    "Simulador": "1",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/my-solar-system Server en Línea: https://educacion.colaboraccion.pe/content/99f442b/64d56b151f148d296ac651f4/01-Mi-Sistema-Solar-060823/ Server Escuela: https://c3edu.online/contents/99f442b/64d56b151f148d296ac651f4/01-Mi-Sistema-Solar-060823/ Temas: Astronomía, Orbitas, Fuerza Gravitacional Objetivos de aprendizaje sugeridos: A. Predecir cómo la posición, la masa, la velocidad y la distancia entre los cuerpos planetarios afectan su movimiento y sus órbitas. B. Ilustrar cómo la fuerza gravitacional controla los movimientos de los planetas C. Explorar los diferentes movimientos que un grupo de cuerpos planetarios puede tener. D. Describir el comportamiento de la velocidad del planeta en diferentes momentos de su órbita. ",
+    "Nivel": "",
+    "Area": "Física: Movimiento Ciencia de la Tierra"
+  },
+  {
+    "id": 2,
+    "Simulador": "Graficador para cálculo",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/calculus-grapher Server en Línea: https://educacion.colaboraccion.pe/content/99f442b/64d56ac51f148d296ac651bb/02-Graficador_para_Calculo-060823/ Server Escuela: https://c3edu.online/contents/99f442b/64d56ac51f148d296ac651bb/02-Graficador_para_Calculo-060823/ Temas: Derivada, Integral Objetivos de aprendizaje sugeridos: A. Dado el trazo de una función, la derivada, o curva integral. B. Usar el lenguaje del cálculo para analizar el movimiento C. Explicar cuál es el efecto de una discontinuidad en una función tiene sobre la derivada y curva integral D. Explique la diferencia entre \"Alisar\" en comparación con la curva de la función continua por tramos E. Ser capaz de describir en palabras con ilustraciones qué son las funciones derivada e integral F. Los estudiantes generalizan la idea de que un gráfico [F(x) vs x] o [x(t) vs t] puede representar la misma cosa.",
+    "Nivel": "",
+    "Area": "Física: Movimiento Matemática: Conceptos"
+  },
+  {
+    "id": 3,
+    "Simulador": "Comparación de números",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/number-compare Server en Línea: https://educacion.colaboraccion.pe/content/99f442b/64d56a7f1f148d296ac65178/03-Comparacion-de-numeros-060823/ Server Escuela: https://c3edu.online/contents/99f442b/64d56a7f1f148d296ac65178/03-Comparacion-de-numeros-060823/ Temas: Números, Cantidades, Cardinalidad Objetivos de aprendizaje sugeridos: A. Coordinar a través de múltiples representaciones de un número: palabra escrita/hablada, número, marco de diez, unidades y objetos. B. Identificar el número de objetos en un grupo. C. Compara números y cantidades hasta el 10, usando una estrategia como agrupar, subitizar (reconocimiento instantáneo), contar o una recta numérica. D. Compara cantidades en diez marcos.",
+    "Nivel": "",
+    "Area": "  Matemática: Conceptos"
+  },
+  {
+    "id": 4,
+    "Simulador": "Juego de números",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/number-play Temas: Números, Cantidades, Cardinalidad, Subitizando Objetivos de aprendizaje sugeridos: A. Coordine a través de múltiples representaciones de un número: palabras escritas/habladas, números, cuadros de diez, unos y objetos. B. Subitize a 5. C. Subitize a 10. D. Prediga el próximo número en una secuencia. E. Identifique la cantidad de objetos en un grupo. F. Dado un número del 1 al 20, cuente esa cantidad de objetos. G. Determinar cuántos objetos hay en un grupo o cuadro de diez, hasta 20.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 5,
+    "Simulador": "Efecto Invernadero",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/greenhouse-effect Temas: Gases de efecto invernadero, Equilibrio Termal, Balance radiactivo, Albedo, Clima Objetivos de aprendizaje sugeridos: A. Describir el efecto de los gases de efecto invernadero y las nubes sobre la luz solar, la radiación infrarroja y la temperatura de la superficie. B. Explicar por qué los gases de efecto invernadero afectan la temperatura. C. Comparar y contrastar el comportamiento de la luz solar y la radiación infrarroja. D. Describir el balance radiactivo y utilícelo para explicar la relación entre la temperatura de la superficie y la concentración de gases de efecto invernadero. E. Compare el efecto de los gases de efecto invernadero con el efecto de las capas absorbentes de infrarrojos.",
+    "Nivel": "",
+    "Area": "Ciencia de la Tierra"
+  },
+  {
+    "id": 6,
+    "Simulador": "Óptica Geométrica: Fundamentos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/geometric-optics-basics/translations Temas: Óptica, Lentes, Espejos, Longitud focal Objetivos de aprendizaje sugeridos: A. Explicar cómo se forma una imagen con una lente convergente o un espejo plano usando diagramas de rayos. B. Determinar cómo el cambio de los parámetros de una lente (distancia focal, diámetro) afecta el lugar donde se forma la imagen y cómo aparece (aumento, brillo, e inversión). C. Predecir dónde se formará una imagen dada la distancia del objeto y los parámetros ópticos.",
+    "Nivel": "",
+    "Area": " Física: Luz y Radiación"
+  },
+  {
+    "id": 7,
+    "Simulador": "Media: Comparte y equilibra",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/mean-share-and-balance Temas: Tendencia central, Media Objetivos de aprendizaje sugeridos: A. Justifique cómo se calcula la media. B. Describa la media en términos de nivelación, compartir equitativo y punto de equilibrio. C. Prediga los efectos de (un) valor atípico (s) en la media. D. Compare un conjunto de datos originales con datos manipulados para ver cómo se compara la media (nivelada, compartida o equilibrada) con los datos originales.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 8,
+    "Simulador": "Construye un Núcleo",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/build-a-nucleus Temas: Física nuclear, Desintegración nuclear, Isótopo Objetivos de aprendizaje sugeridos: A. Explique cómo el cambio del número de neutrones o protones afecta el número atómico y las especies de isótopos. B. Describa cómo las diferentes desintegraciones cambiarán los nucleones en el núcleo y si eso cambia el símbolo del átomo que se muestra y afecta parámetros como el número atómico /masa atómica.",
+    "Nivel": "",
+    "Area": ""
+  },
+  {
+    "id": 9,
+    "Simulador": "Centro y Variabilidad",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/center-and-variability Temas: Mediana, Media, Tendencia Central Objetivos de aprendizaje sugeridos: A. Describe cómo se obtiene la mediana. B. Prediga los efectos de un valor atípico tanto en la media como en la mediana. C. Compara la media y la mediana. D. Dar sentido y determinar la razonabilidad de la media y la mediana de un conjunto de datos observando los valores y/o la distribución. E. Predecir la media y la mediana de un conjunto de datos.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 10,
+    "Simulador": "Óptica geométrica",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/geometric-optics Temas: Óptica, Lentes, Espejos, Longitud focal Objetivos de aprendizaje sugeridos: A. Explicar cómo se forma una imagen mediante una lente o espejo convergente o divergente utilizando diagramas de rayos. B. Determinar cómo el cambio de los parámetros de la óptica (radio de curvatura, índice de refracción) afecta el lugar donde se forma la imagen y cómo aparece (aumento, brillo e inversión). C. Prediga dónde se formará una imagen dada la distancia del objeto y los parámetros ópticos.",
+    "Nivel": "",
+    "Area": "Física: Luz y Radiación"
+  },
+  {
+    "id": 11,
+    "Simulador": "Densidad",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/density Temas: Densidad, Masa, Volumen, Principio de Arquímedes Objetivos de aprendizaje sugeridos: A. Describir cómo el concepto de densidad se relaciona con la masa y el volumen del objeto. B. Explicar cómo los objetos de masa similar pueden tener diferentes volúmenes, y cómo los objetos de volumen similar pueden tener diferentes masas. C. Explicar por qué cambiando la masa o el volumen de un objeto no afecta su densidad (es decir, entender la densidad como una propiedad intensiva). D. Medir el volumen de un objeto mediante la observación de la cantidad de líquido que desplaza. E. Identificar un material desconocido calculando su densidad y comparándolo con una tabla de densidades conocidas.",
+    "Nivel": "",
+    "Area": "Biología Química: Química general Ciencia de la Tierra"
+  },
+  {
+    "id": 12,
+    "Simulador": "Kit de Construcción de Circuitos: AC",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/circuit-construction-kit-ac Temas: Circuito Resistor-Inductor-Condensador, Circuito AC, Ley de Kirchoff, Ley de Ohm Objetivos de aprendizaje sugeridos: A. Explique las relaciones eléctricas básicas en circuitos en serie y en paralelo. B. Utilice un amperímetro y un voltímetro para tomar lecturas en circuitos. C. Proporcione un razonamiento para explicar las medidas y relaciones en circuitos. D. Construya circuitos a partir de dibujos esquemáticos. E. Determine si los objetos comunes son conductores o aislantes. F. Compare y contraste circuitos de CA y CC. G. Describa cómo se comportan los capacitores e inductores en un circuito. H. Determine experimentalmente la constante de tiempo RC. I. Construya circuitos RLC y determine las condiciones para la resonancia.",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad"
+  },
+  {
+    "id": 13,
+    "Simulador": "Kit de construcción de circuitos: CA - Laboratorio virtual",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/circuit-construction-kit-ac-virtual-lab Temas: Circuito Resistor-Inductor-Condensador, Circuito AC, Ley de Kirchoff, Ley de Ohm Objetivos de aprendizaje sugeridos: A. Explique las relaciones eléctricas básicas en circuitos en serie y en paralelo. B. Utilice un amperímetro y un voltímetro para tomar lecturas en circuitos. C. Proporcione un razonamiento para explicar las medidas y relaciones en circuitos. D. Construya circuitos a partir de dibujos esquemáticos. E. Determine si los objetos comunes son conductores o aislantes. F. Compare y contraste circuitos de CA y CC. G. Describa cómo se comportan los capacitores e inductores en un circuito. H. Determine experimentalmente la constante de tiempo RC. I. Construya circuitos RLC y determine las condiciones para la resonancia.",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad"
+  },
+  {
+    "id": 14,
+    "Simulador": "Modos normales",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/normal-modes Temas: Sistemas de resortes, Modos normales Objetivos de aprendizaje sugeridos: A. Explica qué es un modo normal. B. Define la frecuencia, la amplitud y la fase de un modo normal. C. Explica por qué los diferentes modos normales tienen diferentes frecuencias y por qué los modos con números más altos tienen frecuencias más altas. D. Identifique cuántos modos normales tiene un sistema dado. E. Dibuje cualitativamente los modos individuales para sistemas 1D y 2D. F. Explicar la distinción entre modos normales transversales y longitudinales en un sistema 1D. G. Explicar cómo ajustar la fase de un modo normal afecta el movimiento del sistema. H. Explicar cualitativamente cómo cualquier estado arbitrario del sistema puede escribirse como una suma de modos normales; es decir, explique el principio de superposición. I. Explique qué propiedades del sistema están establecidas por las condiciones iniciales, qué propiedades son independientes del tiempo y qué propiedades dependen del tiempo. J. Explicar por qué golpear una placa de metal en un punto eleva la temperatura de la placa.",
+    "Nivel": "",
+    "Area": "Física: Movimiento"
+  },
+  {
+    "id": 15,
+    "Simulador": "Fourier: Haciendo ondas",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/fourier-making-waves Temas: Series de Fourier, Sonido, Harmónicos, Variables conjugadas, Paquetes de Onda, Principio de incertidumbre Objetivos de aprendizaje sugeridos: A. Explique cualitativamente cómo los senos y cosenos se suman para producir funciones periódicas arbitrarias. B. Reconozca que cada componente de Fourier corresponde a una onda sinusoidal con una longitud de onda o período diferente. C. Describa los sonidos en términos de ondas sinusoidales. D. Compara y contrasta ondas en el espacio y ondas en el tiempo. E. Reconoce que la longitud de onda y el período no corresponden a puntos específicos en el gráfico, pero indican la longitud / tiempo entre dos valles, picos o cualquier otro punto correspondiente. F. Relacionar la notación matemática de una serie de Fourier con su representación gráfica y determinar qué aspecto del gráfico es descrito por cada uno de los símbolos en la ecuación. G. Reconocer que λ & T y k & ω son análogos, pero no es lo mismo. H. Traducir una ecuación de notación sumatoria a notación expandida. I. Reconocer que el ancho de un paquete de ondas en el espacio de posición está inversamente relacionado con el ancho de un paquete de ondas en el espacio de Fourier. J. Explique cómo el principio de incertidumbre de Heisenberg resulta de las propiedades de las ondas. 1A. Reconozca que el espacio entre los componentes de Fourier está inversamente relacionado con el espacio entre los paquetes de ondas, y que una distribución continua de los componentes de Fourier conduce a un solo paquete de ondas.",
+    "Nivel": "",
+    "Area": "Física: Sonido y Ondas Física: Fenómenos Cuánticos Física: Luz y Radiación Química: Química cuántica Matemática: Aplicaciones"
+  },
+  {
+    "id": 16,
+    "Simulador": "Recta numérica: Distancia",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/number-line-distance Temas: Número de línea, Enteros, Sustracción, Valor Absoluto Objetivos de aprendizaje sugeridos: A. Calcular la diferencia entre dos enteros usando la resta B. Representar la resta de enteros como la distancia entre enteros C. Razonar sobre la resta de enteros en términos de ubicaciones de números y distancias dirigidas D. Demostrar que la distancia entre dos enteros en la recta numérica está el valor absoluto de su diferencia E. Reconocer y generar clases de equivalencia de diferencias enteras (por ejemplo, 5 - 2 = 6 - 3)",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 17,
+    "Simulador": "Razón y Proporción",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/ratio-and-proportion Temas: Proporciones, Razonamiento Proporcional Objetivos de aprendizaje sugeridos: A. Comprender el concepto de razón y usar el lenguaje de razón para describir una relación de razón entre dos alturas de mano. B. Comprender el concepto de una tasa unitaria a / b asociada con una razón a: b, y usar el lenguaje de tasa en el contexto de una relación de proporción. C. Reconocer y representar relaciones proporcionales entre la altura de las manos.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 18,
+    "Simulador": "Laboratorio de Colisiones",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/collision-lab Temas: Colisiones, Conservación de la Energía, Conservación del Momento, Elasticidad Objetivos de aprendizaje sugeridos: A. Dibuje imágenes de \"antes y después\" de las colisiones. B. Construya representaciones de vectores de momento de las colisiones \"antes y después\". C. Aplique la ley de conservación de la cantidad de movimiento para resolver problemas de colisión. D. Explique por qué la energía no se conserva y varía en algunas colisiones. E. Determine el cambio en la energía mecánica en colisiones de elasticidad variable. F. Define la elasticidad.",
+    "Nivel": "",
+    "Area": " Física: Movimiento"
+  },
+  {
+    "id": 19,
+    "Simulador": "Recta numérica: Operaciones",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/number-line-operations Temas: Operaciones, Número de Línea, Enteros Objetivos de aprendizaje sugeridos: A. Representar la suma y resta de números enteros en una recta numérica horizontal B. Razón sobre la suma y resta de números enteros en términos de ubicaciones de números C. Utilice la necesidad lógica para razonar que la suma tiene el efecto opuesto a la resta o que la suma (o restar) un entero negativo tiene el efecto opuesto a sumar (o restar) un entero positivo. D. Reconocer y generar clases de equivalencia de sumas y diferencias enteras E. Demuestre que un número y su inverso aditivo (opuesto) tienen una suma de 0 F. Usando un contexto de patrimonio neto, describa situaciones que tengan una suma o diferencia positiva, una suma o diferencia negativa y una suma o diferencia cero G. Vea la suma de un negativo como equivalente a restar un positivo y explique por qué esta relación tiene sentido en contextos como el valor neto. H. Considere restar un negativo como equivalente a sumar un positivo y explique por qué esta relación tiene sentido en contextos como el valor neto. I. Aplique un modelo de recta numérica para adición y sustracción en nuevos contextos.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 20,
+    "Simulador": "Parque de patinaje de la energía",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/energy-skate-park Server en Línea: https://c3edu.online/contents/99f442b/64d56a161f148d296ac65126/20-Parque_de_patinaje_de_la_energia-060823/ Server Escuela: https://c3edu.online/contents/99f442b/64d56a161f148d296ac65126/20-Parque_de_patinaje_de_la_energia-060823/ Temas: Conservación de la Energía, Energía Cinética, Energía Potencial, Energía Termal, Rozamiento, Energía Objetivos de aprendizaje sugeridos: A. Explica la conservación de la energía mecánica usando energía cinética, potencial gravitacional y térmica. B. Describe cómo el cambio de masa, fricción o gravedad afecta la energía del patinador. C. Predecir la posición o estimar la velocidad a partir de un gráfico de barras o pastel de energía tabla. D. Calcule la velocidad o altura en una posición a partir de la información sobre una posición diferente. E. Describa qué le sucede a la energía en el sistema cuando cambia la altura de referencia. F. Diseñe un parque de patinaje utilizando los conceptos de energía mecánica y conservación de energía.",
+    "Nivel": "",
+    "Area": "Física: Movimiento Física: Trabajo, Energía y Poder"
+  },
+  {
+    "id": 21,
+    "Simulador": "Construye una molécula",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/build-a-molecule Temas: Fórmula molecular, Estructura molecular, Isómeros, Moléculas Objetivos de aprendizaje sugeridos: A. Describe la diferencia entre un átomo y una molécula. B. Construye moléculas simples a partir de átomos. C. Distinguir entre el coeficiente y el subíndice en una fórmula química. D. Construir moléculas a partir de la fórmula química. E. Asociar nombres de moléculas comunes con múltiples representaciones. F. Experimentar combinando átomos para construir moléculas más grandes.",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 22,
+    "Simulador": "Selección Natural",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/natural-selection Temas: Mutación, Genética, Selección Objetivos de aprendizaje sugeridos: A. Determine qué mutaciones son favorecidas por los agentes de selección de depredadores y variedad de alimentos y qué mutaciones son neutrales. B. Describe qué rasgos cambian la capacidad de supervivencia de un organismo en diferentes entornos. C. Experimenta con entornos que producen una población estable de conejos, una población que se extingue y una población que se apodera del mundo. D. Seguimiento de genes a través de múltiples generaciones. E. Compare cómo los genes dominantes y recesivos se transmiten a la descendencia.",
+    "Nivel": "",
+    "Area": " Biología"
+  },
+  {
+    "id": 23,
+    "Simulador": "Recta Numérica: Enteros",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/number-line-integers Temas: Números de línea, Enteros, Valor Absoluto Objetivos de aprendizaje sugeridos: A. Usar números positivos y negativos para representar cantidades en múltiples contextos. B. Explicar el significado de valores positivos, valores negativos y cero, en múltiples contextos. C. Describir la ubicación de un punto en una recta numérica con respecto a otro número. D. Describir la ubicación de un punto en una recta numérica con respecto a su opuesto. E. Definir el valor absoluto de un número como su distancia desde cero. F. Interpretar las expresiones de desigualdad como expresiones sobre la posición relativa de dos enteros en un diagrama de la recta numérica.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 24,
+    "Simulador": "Adición de Vectores: Ecuaciones",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/vector-addition-equations Temas: Ecuaciones, Vectores, Componentes de un Vector, Adición de Vectores Objetivos de aprendizaje sugeridos: A. Describir lo que le sucede a un vector cuando se multiplica por un escalar. B. Organizar los vectores gráficamente para representar la suma o resta de vectores. C. Comparar los resultados de cada ecuación vectorial",
+    "Nivel": "",
+    "Area": "Matemática: Conceptos"
+  },
+  {
+    "id": 25,
+    "Simulador": "Adición de Vectores",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/vector-addition Temas: Vectores, Componentes de un Vector, Adición de Vectores, Ecuaciones Objetivos de aprendizaje sugeridos: A. Describir un vector en tus propias palabras. B. Explicar un método para agregar vectores. C. Comparar y contrastar los estilos de componentes. D. Descomponer un vector en componentes. E. Describir lo que le sucede a un vector cuando se multiplica por un escalar. F. Organizar vectores gráficamente para representar la suma o resta de vectores.",
+    "Nivel": "",
+    "Area": "Física: Movimiento Matemática: Conceptos"
+  },
+  {
+    "id": 26,
+    "Simulador": "Ajustando la Curva",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/curve-fitting Temas: Polinomios, Análisis de Error, Datos Objetivos de aprendizaje sugeridos: A. Explicar cómo el alcance y la incertidumbre y el número de puntos de datos afectan el coeficiente de correlación y el chi cuadrado. B. Describir cómo el coeficiente de correlación y el chi cuadrado pueden ser usados para indicar qué tan bien una curva describe la relación de datos. C. Aplicar lo entendido en el ajuste de curvas para el diseño de experimentos.",
+    "Nivel": "",
+    "Area": "Matemática: Aplicaciones"
+  },
+  {
+    "id": 27,
+    "Simulador": "Laboratorio de Fuerza de Gravedad: Fundamentos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/gravity-force-lab-basics Temas: Fuerza Gravitacional, Ley Inversa del Cuadrado, Parejas de Fuerza, Tercera Ley de Newton Objetivos de aprendizaje sugeridos: A. Relacionar la fuerza gravitacional con las masas de objetos y la distancia entre los objetos. Explicar la tercera ley de Newton para las fuerzas gravitacionales. B. Usar medidas para determinar la constante gravitacional universal.",
+    "Nivel": "",
+    "Area": " Física: Movimiento Ciencia de la Tierra"
+  },
+  {
+    "id": 28,
+    "Simulador": "Introducción a las Ondas",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/waves-intro Temas: Frecuencia, Amplitud, Velocidad de Ondas, Longitud de Onda, Agua, Sonido, Luz Objetivos de aprendizaje sugeridos: A. Haga ondas con agua, sonido y luz y vea cómo se relacionan. B. Discuta las propiedades de las ondas usando un vocabulario común. C. Explique cómo el cambio de frecuencia y amplitud afecta las características de la onda. D. Diseño Un experimento para medir la velocidad de la onda.",
+    "Nivel": "",
+    "Area": " Física: Sonido y Ondas Física: Luz y Radiación Ciencia de la Tierra"
+  },
+  {
+    "id": 29,
+    "Simulador": "Difusión",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/diffusion Temas: Gas, Difusión, Termodinámica Objetivos de aprendizaje sugeridos: A. Explicar cómo se mezclan dos gases. B. Diseñar un experimento para encontrar los factores que afectan la velocidad de difusión.",
+    "Nivel": "",
+    "Area": "Física: Calor y termodinámica Química: Química general Ciencia de la Tierra"
+  },
+  {
+    "id": 30,
+    "Simulador": "Introducción a los Gases",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/gases-intro Temas: Ley del Gas Ideal, Presión, Volumen, Temperatura Objetivos de aprendizaje sugeridos: A. Describir el comportamiento de las partículas de gas en la caja. B. Identificar la relación entre presión, volumen, temperatura y número de moléculas de gas. C. Describir la relación entre las colisiones en la pared de las partículas y la presión. D. Predecir cómo el cambio de temperatura afectará la velocidad de las moléculas.",
+    "Nivel": "",
+    "Area": " Física: Calor y termodinámica Química: Química general Ciencia de la Tierra"
+  },
+  {
+    "id": 31,
+    "Simulador": "Propiedades de los gases",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/gas-properties Temas: Ley del Gas Ideal, Teoría Cinética Molecular, Difusión, Presión-volumen de trabajo, Distribución de Maxwell-Boltzmann Objetivos de aprendizaje sugeridos: A. Determinar cómo el cambio de una variable entre P, V, N y T influye en otras propiedades del gas. B. Describir la relación entre las colisiones en la pared de las partículas y la presión. C. Predecir cómo el cambio de temperatura afectará la velocidad de las moléculas. D. Predecir la velocidad de las moléculas en equilibrio térmico en función de las masas relativas de las moléculas. E. Identificar cuando el trabajo de presión-volumen se realiza sobre o por un gas. F. Explicar cómo se mezclan dos gases. G. Diseñar un experimento para encontrar los factores que afectan la velocidad de difusión.",
+    "Nivel": "",
+    "Area": "Física: Trabajo, Energía y Poder Física: Calor y termodinámica Química: Química general Ciencia de la Tierra"
+  },
+  {
+    "id": 32,
+    "Simulador": "Espectro del cuerpo negro",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/blackbody-spectrum Temas: Cuerpo Negro, Ley de Planck, Ley de Wien, Radiación Electromagnética, Mecánica Cuántica, Astronomía Objetivos de aprendizaje sugeridos: A. Describe lo que sucede con el espectro del cuerpo negro a medida que aumenta o disminuye la temperatura. ¿Qué sucede con la forma de la curva y el pico de esta curva? B. Describa el espectro del cuerpo negro de una bombilla. ¿Por qué se calientan las bombillas? ¿Parecen eficientes? C. Imagine que ve 2 objetos calientes y brillantes: uno es de color naranja brillante y el otro es de color azul brillante. ¿Cuál es más caliente? D. Encuentra la relación entre la temperatura y la longitud de onda en el pico de la curva.",
+    "Nivel": "",
+    "Area": "Física: Fenómenos Cuánticos Física: Luz y Radiación Química: Química cuántica Ciencia de la Tierra"
+  },
+  {
+    "id": 33,
+    "Simulador": "Masas y Resortes: Fundamentos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/masses-and-springs-basics Temas: Medición, Movimiento Periódico, Ley de Hooke Objetivos de aprendizaje sugeridos: A. Describir la longitud natural y la posición de equilibrio en tus propias palabras. B. Encontrar la relación entre la masa, la resistencia del resorte (constante del resorte) y el estiramiento (desplazamiento). C. Diseñar un experimento para determinar la masa de un objeto misterioso. D. Desarrollar un método para medir el período. E. Determinar los factores que afectan el período de oscilación. F. Comparar la gravedad en el Planeta X con los puntos de referencia conocidos. G. Describir la relación entre la velocidad y los vectores de aceleración, y su relación con el movimiento, en varios puntos de la oscilación.",
+    "Nivel": "",
+    "Area": " Física: Movimiento Física: Trabajo, Energía y Poder Matemática: Aplicaciones"
+  },
+  {
+    "id": 34,
+    "Simulador": "Formas y Cambios de Energía",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/energy-forms-and-changes Temas: Conservación de la Energía, Sistemas de Energía, Transferencia de Energía, Conversión de Energía, Conducción de Calor Objetivos de aprendizaje sugeridos: A. Predecir cómo la energía fluirá cuando los objetos se calientan o enfrían, o para los objetos que están en contacto con diferentes temperaturas. B. Describir los diferentes tipos de energía y dar ejemplos de la vida cotidiana. C. Describir cómo la energía puede cambiar de una forma de energía a otra. D. Explicar la conservación de la energía en los sistemas de la vida real. E. Diseñar un sistema con fuentes de energía, cambiadores, y usuarios y describir cómo la energía fluye y cambia de una forma de energía a otra. F. Saber la historia de la energía en sistemas para la vida real.",
+    "Nivel": "",
+    "Area": "Física: Trabajo, Energía y Poder Física: Calor y termodinámica Química: Química general"
+  },
+  {
+    "id": 35,
+    "Simulador": "Interferencia de Ondas",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/wave-interference Temas: Interferencia, Doble Rendija, Difracción, Ondas Objetivos de aprendizaje sugeridos: A. Haga ondas con agua, sonido y luz y vea cómo se relacionan. B. Diseñe un experimento para medir la velocidad de la onda. C. Cree un patrón de interferencia con dos fuentes y determine las formas de cambiar patrón. D. Encuentre puntos de interferencia constructiva y destructiva a simple vista y usando los detectores. E. Coloque una barrera para ver cómo se mueven las ondas a través de una o dos rendijas. ¿Qué tipo de patrón crean las rendijas? ¿Cómo puede cambiar este patrón? F. Para la luz, prediga las ubicaciones de las franjas que aparecen en la pantalla usando d sen (θ) = mλ;. Use la cinta métrica para verificar sus predicciones. G. Explique cómo la geometría de la abertura se relaciona con el patrón de difracción. H. Prediga cómo el cambio de la longitud de onda o el tamaño de la abertura afecta el patrón de difracción. ",
+    "Nivel": "",
+    "Area": "Física: Sonido y Ondas Física: Luz y Radiación Ciencia de la Tierra"
+  },
+  {
+    "id": 36,
+    "Simulador": "Fracciones: Números Mixtos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/fractions-mixed-numbers Temas: Fracciones, Fracciones Equivalentes, Números Mixtos, Número de Línea Objetivos de aprendizaje sugeridos: A. Predecir y explicar cómo el cambio del numerador de una fracción afecta el valor de la fracción. B. Predecir y explicar cómo el cambio del denominador de una fracción afecta el valor de la fracción. C. Convertir entre una imagen de una fracción, una fracción impropia y un número mixto. D. Construir fracciones iguales usando números e imágenes.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 37,
+    "Simulador": "Fracciones: Introducción",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/fractions-intro Temas: Fracciones, Fracciones Equivalentes, Fracción Impropia, Número de Línea Objetivos de aprendizaje sugeridos: A. Predecir y explicar cómo cambiando el numerador de una fracción se afecta el valor de la fracción. B. Predecir y explicar cómo cambiando el denominador de una fracción se afecta el valor de la fracción. C. Convertir entre una gráfica de una fracción, una fracción numérica, y un punto en una recta numérica. D. Construye fracciones iguales usando números e imágenes. E. Compara fracciones usando números y patrones.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 38,
+    "Simulador": "Haz una Fracción",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/build-a-fraction Temas: Fracciones, Fracciones Equivalentes, Números Mixtos Objetivos de aprendizaje sugeridos: A. Construir fracciones equivalentes usando números e imágenes B. Comparar fracciones usando números y patrones C. Reconocer fracciones equivalentes simplificados y sin simplificar D. Nota: \"Construir una Fracción\" amplía las ideas de las simulaciones “Introducción a las Fracciones\" y \"Emparejador de Fracciones\" o puede ser utilizado como una herramienta independiente.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 39,
+    "Simulador": "Fracciones: Igualdad",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/fractions-equality Temas: Fracciones Equivalentes, Número de Línea, Fracción Impropia, Ecuaciones, Desigualdades Objetivos de aprendizaje sugeridos: A. Hacer fracciones equivalentes usando diferentes números. B. Hacer coincidir fracciones en diferentes patrones de imagen. C. Comparar fracciones en una recta numérica.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 40,
+    "Simulador": "Ley de Coulomb",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/coulombs-law Temas: Electrostática, Fuerza Eléctrica, Parejas de Fuerza, Ley de Coulomb Objetivos de aprendizaje sugeridos: A. Relacionar la magnitud de la fuerza electrostática con las cargas y la distancia entre ellas. B. Explicar la tercera ley de Newton para las fuerzas electrostáticas. C. Usar mediciones para determinar la constante de Coulomb. D. Determinar qué hace que una fuerza sea atractiva o repulsiva. ",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad Química: Química general"
+  },
+  {
+    "id": 41,
+    "Simulador": "Graficando Cuadráticas",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/graphing-quadratics Temas: Gráficas, Parábola, Función Cuadrática, Vértice Objetivos de aprendizaje sugeridos: A. Describir cómo cambiando los coeficientes de una función cuadrática cambia la gráfica de la función. B. Predecir cómo la gráfica de una parábola cambiará si los coeficientes o constante son variados. C. Identificar el vértice, eje de simetría, las raíces, y la directriz para la gráfica de una ecuación cuadrática. D. Usar la forma de vértice de una función cuadrática para describir la gráfica de la función. E. Describir las relaciones entre el foco y la directriz y la parábola resultante. F. Predecir la gráfica de una parábola dado el foco y la directriz.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 42,
+    "Simulador": "Masas y Resortes",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/masses-and-springs Temas: Movimiento Periódico, Ley de Hooke, Conservación de la Energía, Leyes de Newton, Medición, Vectores Objetivos de aprendizaje sugeridos: A. Determinar los factores que afectan el periodo de oscilación. B. Encontrar el valor de g en el Planeta X C. Diseñar un experimento para determinar la masa de un objeto desconocido D. Describir la relación entre los vectores de velocidad y aceleración, y su relación con el movimiento, en varios puntos de la oscilación. E. Explicar cómo cambia el diagrama de cuerpo libre de la masa a lo largo de su oscilación. F. Explicar la conservación de la energía mecánica utilizando la energía cinética, la energía potencial elástica, la energía potencial gravitatoria y la energía térmica.",
+    "Nivel": "",
+    "Area": "Física: Movimiento"
+  },
+  {
+    "id": 43,
+    "Simulador": "Explorador de Igualdad: Dos Variables",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/equality-explorer-two-variables Temas: Ecuaciones, Desigualdades, Sistema de Ecuaciones Objetivos de aprendizaje sugeridos: A. Resolver y manipular ecuaciones algebraicas al sustituir diferentes valores para una variable. B. Usar un modelo de balanza para resolver una ecuación para una incógnita, y justifica tus estrategias para resolverlo. C. Construir un sistema de ecuaciones. D. Determinar el conjunto solución de un sistema de ecuaciones.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 44,
+    "Simulador": "Explorador de Igualdad: Fundamentos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/equality-explorer-basics Temas: Ecuaciones, Desigualdades, Razonamiento Proporcional Objetivos de aprendizaje sugeridos: A. Usar un modelo de balanza para resolver una ecuación para una incógnita y justifica tus estrategias para resolverlo. B. Usar el razonamiento proporcional para determinar el valor de un solo objeto.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 45,
+    "Simulador": "Explorador de Igualdad",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/equality-explorer Temas: Resolviendo Ecuaciones, Desigualdades, Operaciones Inversas Objetivos de aprendizaje sugeridos: A. Resolver y manipular ecuaciones algebraicas aplicando propiedades de números reales (en particular, las propiedades inversas de suma y multiplicación) y propiedades de igualdad. B. Resolver y manipular ecuaciones algebraicas sustituyendo valores diferentes para una variable. C. Usar un modelo de balanza para resolver una ecuación para una incógnita, y justifique sus estrategias para resolverlo. D. Resolver una ecuación usando solo operaciones universales.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 46,
+    "Simulador": "Modelo de Área con Álgebra",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/area-model-algebra Temas: Polinomios, Factores, Productos Objetivos de aprendizaje sugeridos: A. Desarrollar y justificar un método para usar el modelo de área para determinar el producto de un monomio y un binomio o el producto de dos binomios. B. Factorizar una expresión, incluidas las expresiones que contienen una variable. C. Reconocer que el área representa el producto de dos números y es aditiva. D. Representar un problema de multiplicación como el área de un rectángulo, proporcionalmente o usando un área genérica. E. Desarrollar y justificar una estrategia para determinar el producto de dos números de varios dígitos representando el producto como un área o la suma de áreas.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 47,
+    "Simulador": "Modelo de área con decimales",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/area-model-decimals Temas: Multiplicación, Decimales, Modelo de Área, Factores, Productos Parciales Objetivos de aprendizaje sugeridos: A. Reconocer que el área representa el producto de dos números y es aditiva. B. Desarrollar y justificar una estrategia que usa el modelo de área para simplificar un problema de multiplicación decimal. C. Diseñar una estrategia para determinar el producto de dos números racionales (o un número entero y un número racional) representando el producto como un área o la suma de áreas. D. Usar un modelo de área para comprender por qué la multiplicación de un número dado por un decimal menor que 1 da como resultado un producto más pequeño que el número dado. E. Interpretar el producto de dos números racionales usando fichas de base diez",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 48,
+    "Simulador": "Modelo de Área con multiplicación",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/area-model-multiplication Temas: Productos Parciales, Factores, Multiplicación, Modelo de Área Objetivos de aprendizaje sugeridos: A. Reconocer que el área representa el producto de dos números y es el aditivo. B. Representar un problema de multiplicación como el área de un rectángulo, proporcionalmente o usando del área genérica. C. Desarrollar y justificar una estrategia para determinar el producto de dos números multidígito representando el producto como un área o la suma de áreas.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 49,
+    "Simulador": "Modelo de Área. Introducción",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/area-model-introduction Temas: Factores, Productos, Modelo de Área, Multiplicación, Productos Parciales Objetivos de aprendizaje sugeridos: A. Reconocer que el área representa el producto de dos números. B. Desarrollar y justificar una estrategia que usa el modelo de área para simplificar un problema de multiplicación. C. Representar un problema de multiplicación como el área proporcional de un rectángulo. D. Buscar patrones en el cálculo del área total.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 50,
+    "Simulador": "Expresión Génica – Fundamentos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/gene-expression-essentials Temas: Expresión Génica, Transcripción de ADN, Síntesis de Proteínas, Células, Estocástico (sistema cuyo comportamiento es intrínsecamente no determinista) de Interacciones Moleculares. Objetivos de aprendizaje sugeridos: A. Explicar la secuencia principal de eventos que ocurren dentro de una célula que conduce a la síntesis de proteínas. B. Predecir cómo la modificación de las concentraciones e interacciones de las biomoléculas afecta la producción de proteínas. C. Explica cómo la producción de proteínas en una sola célula se relaciona con la cantidad producida por una colección de células.",
+    "Nivel": "",
+    "Area": "Biología"
+  },
+  {
+    "id": 51,
+    "Simulador": "Laboratorio de Condensadores: Básico",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/capacitor-lab-basics Temas: Condensador de placas paralelas, Circuito de Resistencia-Condensador, Circuitos Objetivos de aprendizaje sugeridos: A. Explicar las relaciones entre voltaje, carga, energía almacenada y capacitancia. B. Predecir cómo cambia la capacitancia cuando cambia el área de la placa o la separación de la placa. C. Describir cómo se pierde la carga de un condensador en una bombilla.",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad"
+  },
+  {
+    "id": 52,
+    "Simulador": "Equipo de Construcción de Circuitos: DC - Laboratorio Virtual",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/circuit-construction-kit-dc-virtual-lab Temas: Circuito en serie, Circuito Paralelo, Ley de Ohm, Ley de Kirchoff Objetivos de aprendizaje sugeridos: A. Discutir sobre las relaciones básicas de electricidad. B. Construir circuitos a partir de dibujos esquemáticos. C. Utilice un amperímetro y un voltímetro para tomar las lecturas en los circuitos. D. Proporcionar una razón para explicar las medidas y las relaciones en los circuitos. E. Discutir sobre las relaciones básicas de electricidad en circuitos en serie y paralelo. F. Proporcionar una razón para explicar las medidas en los circuitos. G. Determinar la resistencia de objetos cotidianos en el \"Cajón de Sastre\".",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad"
+  },
+  {
+    "id": 53,
+    "Simulador": "Equipo de Construcción de Circuitos: DC",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/circuit-construction-kit-dc Temas: Circuito en serie, Circuito Paralelo, Ley de Ohm, Ley de Kirchoff Objetivos de aprendizaje sugeridos: A. Explorar relaciones básicas de electricidad. B. Explicar las relaciones eléctricas básicas en circuitos en serie y en paralelo. C. Usar un amperímetro y un voltímetro para tomar lecturas en los circuitos. D. Proporcionar un razonamiento para explicar las mediciones y las relaciones en los circuitos. E. Construir circuitos a partir de dibujos esquemáticos. F. Determinar si los objetos comunes son conductores o aislantes.",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad"
+  },
+  {
+    "id": 54,
+    "Simulador": "Laboratorio de Péndulos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/pendulum-lab Temas: Movimiento Periódico, Movimiento armónico Simple, Conservación de la Energía, Período, Péndulo Objetivos de aprendizaje sugeridos: A. Diseñar experimentos para determinar cuáles variables afectan el periodo del péndulo. B. Cuantitativamente describe cómo el periodo de un péndulo depende de esas variables. C. Explicar la aproximación de ángulos pequeños, y definir qué constituye un ángulo \"pequeño\". D. Determinar la aceleración gravitacional del Planeta \"X\". E. Explicar la conservación de la energía mecánica, usando la energía cinética y la energía potencial gravitacional. F. Describe el Gráfico de Emergía desde la posición y velocidad de un péndulo.",
+    "Nivel": "",
+    "Area": "Física: Movimiento Física: Trabajo, Energía y Poder Matemática: Aplicaciones"
+  },
+  {
+    "id": 55,
+    "Simulador": "Movimiento de un Proyectil",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/projectile-motion A. Temas: Cinemática, Resistencia del Aire, Curva Parabólica, Vectores, Fuerza de Rozamiento, Movimiento de Proyectil B. Objetivos de aprendizaje sugeridos: C. Determinar cómo cada parámetro (altura inicial, ángulo inicial, velocidad inicial, masa, diámetro, y altitud) afectan la trayectoria de un objeto, con y sin la resistencia del aire. D. Predecir cómo variando las condiciones iniciales afectarán la trayectoria de un proyectil, y proporcionarán una explicación para la predicción. E. Estimar dónde un objeto aterrizará, dado sus condiciones iniciales. F. Determinar que los movimientos de un proyectil en \"x\" y en \"y\" son independientes. G. Investigar las variables que afectan la fuerza de rozamiento. H. Describir el efecto que la fuerza de rozamiento tiene sobre la velocidad y aceleración. I. Discutir el movimiento de un proyectil usando un vocabulario simple (tales como: ángulo de lanzamiento, velocidad inicial, altura inicial, distancia, tiempo).",
+    "Nivel": "",
+    "Area": "Física: Movimiento Matemática: Aplicaciones"
+  },
+  {
+    "id": 56,
+    "Simulador": "Polaridad de la Molécula",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/molecule-polarity Temas: Polaridad, Electronegatividad, Enlaces, Carga Parcial, Dipolo Objetivos de aprendizaje sugeridos: A. Predecir la polaridad del enlace usando valores de electronegatividad. B. Indicar la polaridad con una flecha polar o cargas parciales. C. Clasificar los enlaces en orden de polaridad. D. Predecir la polaridad molecular usando la polaridad de enlace y la forma molecular.",
+    "Nivel": "",
+    "Area": "Biología Química: Química general"
+  },
+  {
+    "id": 57,
+    "Simulador": "Cambio de Expresión",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/expression-exchange Temas: Expresiones Equivalentes, Evaluar Expresiones, Simplificar Expresiones Objetivos de aprendizaje sugeridos: A. Simplifica expresiones combinando términos iguales. B. Contextualiza coeficientes y términos semejantes/no semejantes. C. Interpreta una expresión tanto en representaciones abstractas como concretas. D. Construye una expresión que es equivalente a un objetivo.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 58,
+    "Simulador": "Representación Intercepto-Pendiente",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/graphing-slope-intercept Temas: Forma Pendiente-Intersección, Graficando Ecuaciones Lineales. Objetivos de aprendizaje sugeridos: A. Graficar una línea dado una ecuación en la forma pendiente-intersección. B. Escribir una ecuación en la forma pendiente-intersección dado una línea graficada. C. Predecir cómo cambiando los valores en una ecuación lineal afectará la línea graficada. D. Predecir cómo cambiando la línea graficada afectará la ecuación.",
+    "Nivel": "",
+    "Area": "Matemática: Conceptos"
+  },
+  {
+    "id": 59,
+    "Simulador": "Creador de Funciones: Conceptos Básicos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/function-builder-basics Temas: Funciones, Transformaciones, Pares Ordenados Objetivos de aprendizaje sugeridos: A. Define una función como una regla relacionando cada entrada exactamente con una salida y actúa predeciblemente sobre las entradas. B. Predice las salidas de una función usando las entradas dadas. C. Compone funciones para crear una nueva función. D. Determina cuáles funciones son transformaciones geométricas.  ",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 60,
+    "Simulador": "Juegos de Proporciones",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/proportion-playground Temas: Proporciones, Razonamiento Proporcional, Unidad de proporción Objetivos de aprendizaje sugeridos: A. Utilizar una razón como característica descriptiva. B. Comparar el significado de una razón en diferentes contextos. C. Usar la escala para construir proporciones o para encontrar un valor desconocido en una proporción. D. Simplificar las razones para construir proporciones o encontrar un valor desconocido en una proporción. E. Usar un razonamiento multiplicativo para resolver problemas.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 61,
+    "Simulador": "Tasas o Razones Unitarias",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/unit-rates Temas: Proporciones, Razonamiento Proporcional, Línea Numérica Doble, Unidad de proporción Objetivos de aprendizaje sugeridos: A. Interpretar proporciones de unidades mixtas (e.g. $/lb) B. Definir la tasa unitaria y determinar el método para calcularlo. C. Predecir cómo cambiando el numerador o denominador de una proporción afectará la tasa unitaria. D. Usar la línea numérica doble para razonar sobre las tasas y resolver problemas reales del mundo. E. Desarrollar estrategias para usar la tasa unitaria para resolver problemas. F. Comparar tasas unitarias entre dos situaciones simultáneas.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 62,
+    "Simulador": "Haz un Diez",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/make-a-ten Temas: Valor Posicional, Adición, Sustracción, Aritmética Objetivos de aprendizaje sugeridos: A. Mejorar la comprensión del valor de lugar mediante el uso de diferentes tamaños de papeles para unidades, decenas y centenas. B. Desarrollar estrategias mentales de matemáticas al descomponer y reunir números. C. Utilizar la estrategia de \"hacer un diez\" al contar y hacer la adición. D. Desarrollar un modelo mental de las propiedades básicas de los números, incluyendo conmutatividad, asociatividad y clausura.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 63,
+    "Simulador": "Estados de la Materia: Fundamentos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/states-of-matter-basics Temas: Átomos, Moléculas, Estados de las Materia Objetivos de aprendizaje sugeridos: A. Describir las características de los tres estados de la materia: sólido, líquido y gas. B. Predecir cómo variando la temperatura o la presión cambia el comportamiento de las partículas. C. Comparar las partículas en las tres fases diferentes. D. Explicar la congelación y la fusión con detalle a nivel molecular. E. Reconocer que las sustancias diferentes tienen propiedades diferentes, incluyendo la temperatura de fusión, congelación y ebullición.",
+    "Nivel": "",
+    "Area": " Física: Calor y termodinámica Química: Química general"
+  },
+  {
+    "id": 64,
+    "Simulador": "Estados de la Materia",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/states-of-matter Temas: Enlace Atómico, Interacción Potencial, Estados de la Materia, Dipolo Objetivos de aprendizaje sugeridos: A. Describir un modelo molecular para sólidos, líquidos y gases. B. Extender este modelo a los cambios de fase. C. Describir cómo la calefacción o refrigeración cambia el comportamiento de las moléculas. D. Describir cómo cambiando el volumen puede afectar a la temperatura, presión y estado. E. Relacionar un diagrama de presión-temperatura en el comportamiento de las moléculas. F. Interpretar las gráficas de potencial interatómico. G. Describir cómo las fuerzas sobre los átomos se relacionan con el potencial de interacción. H. Describir el significado físico de los parámetros en el potencial de Lennard-Jones, y cómo esto se relaciona con el comportamiento de moléculas.",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 65,
+    "Simulador": "Gravedad y Órbitas",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/gravity-and-orbits Temas: Fuerza Gravitacional, Movimiento Circular, Astronomía Objetivos de aprendizaje sugeridos: A. Describir la relación entre el Sol, la Tierra, la Luna y la estación espacial, incluyendo las órbitas y posiciones B. Describir el tamaño y la distancia entre el Sol, la Tierra, la Luna y la estación espacial C. Explicar cómo la gravedad controla el movimiento de nuestro sistema solar D. Identificar las variables que afectan la fuerza de gravedad E. Predecir cómo el movimiento podría cambiar si la gravedad es más fuerte o más débil",
+    "Nivel": "",
+    "Area": "Física: Movimiento Ciencia de la Tierra"
+  },
+  {
+    "id": 66,
+    "Simulador": "Probabilidad Plinko",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/plinko-probability Temas: Probabilidad, Estadísticas, Histogramas Objetivos de aprendizaje sugeridos: A. Predecir el compartimiento donde una sola bola podría caer. B. Repetir los ensayos de 100 bolas y comparar los resultados. C. Contar el número de bolas en un contenedor y relacionarlo con la probabilidad de caer en ese contenedor. D. Comparar e interpretar estadísticas empíricas y teóricas. E. Aplicar la simulación plinko como un modelo a otros escenarios donde hay estadísticas ponderadas.",
+    "Nivel": "",
+    "Area": "Matemática: Conceptos"
+  },
+  {
+    "id": 67,
+    "Simulador": "Interacciones Atómicas",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/atomic-interactions Temas: Interacción Potencial, Enlace Atómico, Fuerzas de Van der Waals, Repulsión de Pauli, Potencial de Lennard-Jones, Interacciones Atómicas Objetivos de aprendizaje sugeridos: A. Explicar cómo las fuerzas atractiva y repulsiva gobiernan las interacciones entre átomos. B. Describir el efecto de la profundidad potencial del pozo en las interacciones atómicas. C. Contraste bien el potencial de un par de átomos unidos con pares no unidos. D. Describir enlaces como dinámicos y longitudes de enlaces como distancias medias.",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 68,
+    "Simulador": "Cargas y Campos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/charges-and-fields Temas: Campo Eléctrico, Electrostática, Equipotencialidad, Potencial Electroestático, Cargas Eléctricas, Voltaje Objetivos de aprendizaje sugeridos: A. Determinar las variables que afectan a la fuerza y la dirección del campo eléctrico para una disposición estática de cargas. B. Investigar las variables que afectan la fuerza del potencial electroestático (voltaje). C. Explicar las líneas equipotenciales y compararlos con las líneas del campo eléctrico. D. Para un arreglo de cargas estáticas, predecir las líneas del campo eléctrico. Verifica la predicción usando la suma de vectores.",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad"
+  },
+  {
+    "id": 69,
+    "Simulador": "Dispersión de Rutherford",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/rutherford-scattering Temas: Núcleo Atómico, Estructura Atómica, Mecánica Cuántica Objetivos de aprendizaje sugeridos: A. Describir la diferencia cualitativa entre la dispersión de núcleos cargados positivamente y un átomo eléctricamente neutro de pudín de ciruela. B. Para el núcleo cargado, describir cualitativamente cómo el ángulo de desviación depende de: La energía de la partícula entrante, el parámetro de impacto, la carga del objetivo",
+    "Nivel": "",
+    "Area": "Física: Fenómenos Cuánticos Química: Química general"
+  },
+  {
+    "id": 70,
+    "Simulador": "Generador de Funciones",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/function-builder Temas: Funciones, Pares Ordenados, Transformaciones, Ecuación Lineal Objetivos de aprendizaje sugeridos: A. Definir una función como una regla relacionando cada entrada exactamente con una salida y predeciblemente actuar sobre las entradas. B. Predecir las salidas de una función usando entradas dadas. C. Componer funciones para crear una nueva función. D. Interpretar, comparar, y traducir entre múltiples representaciones de una función algebraica.",
+    "Nivel": "",
+    "Area": "Matemática: Conceptos"
+  },
+  {
+    "id": 71,
+    "Simulador": "Isótopos y Masa Atómica",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/isotopes-and-atomic-mass Temas: Isótopos, Masa Atómica Objetivos de aprendizaje sugeridos: A. Definir \"isótopo\" utilizando el número de masa, número atómico, el número de protones, neutrones y electrones. B. Teniendo en cuenta la información sobre un elemento, calcular la masa y el nombre de un isótopo. C. Dar evidencia para apoyar u oponerse: \"En la naturaleza, la posibilidad de encontrar un isótopo de un elemento es el mismo para todos los isótopos\". D. Calcular la masa atómica promedio de un elemento debido a la abundancia y la masa de sus isótopos. E. Predecir cómo la masa y el nombre de un isótopo va a cambiar dado un cambio en el número de protones, neutrones o electrones. F. Predecir cómo la masa atómica promedio de un elemento cambia dado un cambio en la abundancia de sus isótopos. ",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 72,
+    "Simulador": "Neurona",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/neuron Temas: Biología, Neuronas, Células Objetivos de aprendizaje sugeridos: A. Describir por qué los iones pueden o no pueden moverse a través de las membranas neuronales. B. Identificar las fugas y los canales cerrados, y describir la función de cada uno. C. Describir cómo los cambios de permeabilidad de la membrana en términos de diferentes tipos de canales en una neurona. D. Describir la secuencia de eventos que genera un potencial de acción.",
+    "Nivel": "",
+    "Area": "Biología"
+  },
+  {
+    "id": 73,
+    "Simulador": "Recorrido Trigonométrico",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/trig-tour Temas: Trigonometría, Círculo Unitario, Senos, Cosenos, Tangentes Objetivos de aprendizaje sugeridos: A. Definir funciones trigonométricas para ángulos negativos y ángulos mucho mayores que 90 grados. B. Traducir entre múltiples representaciones de funciones trigonométricas: como lados de un triángulo rectángulo inscrito en un círculo unitario, gráfico de la función vs. ángulo, y valores numéricos de la función. C. Deducir el signo (+, -, 0) de una función trigonométrica para cualquier ángulo dado sin calculadora usando el concepto de círculo unitario. D. Estimar el valor de las funciones trigonométricas para cualquier ángulo dado sin calculadora usando el concepto de círculo unitario. E. Definir las funciones trigonométricas exactas para ángulos especiales usando grados o radianes para medida de los ángulos.",
+    "Nivel": "",
+    "Area": "Matemática: Conceptos"
+  },
+  {
+    "id": 74,
+    "Simulador": "Curvando la luz",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/bending-light Temas: Ley de Snell, Refracción, Reflexión, Óptica, Prisma, Lentes, Luz Objetivos de aprendizaje sugeridos: A. Explicar cómo se desvía la luz en la interfase entre dos medios y qué determina el ángulo. B. Aplicar la ley de Snell a un rayo láser incidente en la interfase entre los medios. C. Describa cómo la velocidad y la longitud de onda de la luz cambian en diferentes medios. D. Describir el efecto del cambio de longitud de onda en el ángulo de refracción. E. Explicar cómo un prisma crea un arco iris.",
+    "Nivel": "",
+    "Area": "Física: Luz y Radiación"
+  },
+  {
+    "id": 75,
+    "Simulador": "Aritmética",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/arithmetic Temas: Multiplicación, División, Factorización Objetivos de aprendizaje sugeridos: A. Explicar cómo las tablas de multiplicación ayudan a entender la multiplicación, la factorización y la división. B. Usar un modelo de matriz para entender la multiplicación, la factorización, y la división. C. Incrementar la precisión en multiplicar, factorizar y dividir. D. Desarrollar múltiples estrategias para problema aritméticos.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 76,
+    "Simulador": "Ley de Hook",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/hookes-law Temas: Resortes, Fuerza, Energía Potencial, Ley de Hooke, Vectores, Constante del Resorte Objetivos de aprendizaje sugeridos: A. Explicar las relaciones entre fuerza aplicada, la fuerza del resorte, constante del resorte, el desplazamiento y la energía potencial. B. Describir cómo al conectar dos resortes en serie o en paralelo afecta la constante elástica efectiva y las fuerzas de resorte. C. Predecir cómo el potencial de energía almacenada en el resorte cambia como la constante de resorte y el cambio de desplazamiento.",
+    "Nivel": "",
+    "Area": "Física: Movimiento Física: Trabajo, Energía y Poder"
+  },
+  {
+    "id": 77,
+    "Simulador": "Moléculas y Luz",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/molecules-and-light Temas: Moléculas, Fotones, Absorción, Luz Objetivos de aprendizaje sugeridos: A. Explorar cómo la luz interactúa con las moléculas de nuestra atmósfera. B. Identificar que la absorción de la luz depende de la molécula y el tipo de luz. C. Relacionar la energía de la luz al movimiento resultante. D. Identificar que aumenta la energía de microondas a la radiación ultravioleta. E. Predecir el movimiento de una molécula en función del tipo de luz que absorbe. F. Identificar cómo la estructura de una molécula afecta la forma en que interactúa con la luz.",
+    "Nivel": "",
+    "Area": "Física: Luz y Radiación Química: Química general Ciencia de la Tierra"
+  },
+  {
+    "id": 78,
+    "Simulador": "Regresión de Mínimos Cuadrados",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/least-squares-regression Temas: Regresión Lineal, Correlación, Residuales, Parte aislada, Datos Objetivos de aprendizaje sugeridos: A. Interpretar r (coeficiente de correlación) mientras se agregan los puntos de datos, movidos o eliminados. B. Interpretar la suma de los residuos al cuadrado, mientras se ajusta manualmente una línea. C. Interpretar la suma de los residuos al cuadrado de una línea de mejor ajuste mientras que un punto de datos, añadido, movido o eliminado. D. Comparar la suma de los residuos al cuadrado entre una línea ajustada de forma manual y la línea de mejor ajuste. E. Determinar si un ajuste lineal es apropiado.",
+    "Nivel": "",
+    "Area": "Matemática: Conceptos"
+  },
+  {
+    "id": 79,
+    "Simulador": "Formas de una Molécula",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/molecule-shapes Temas: Repulsión de la Capa de valencia de pares de electrones, Pares Solitarios, Enlaces, Ángulo de enlace, Moléculas, Geometría molecular, Geometría del electrón Objetivos de aprendizaje sugeridos: A. Reconocer que la geometría de molécula se debe a la repulsión entre los grupos de electrones. B. Reconocer la diferencia entre el electrón y la geometría molecular. C. Nombra molécula y geometría de electrones para moléculas con un máximo de seis grupos de electrones alrededor de un átomo central. D. Comparar las predicciones del ángulo de enlace desde el modelo basado VSEPR para moléculas reales. E. Describir cómo afectan los pares solitarios de ángulos de enlace en moléculas reales.",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 80,
+    "Simulador": "Formas de una molécula: Fundamentos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/molecule-shapes-basics Temas: Geometría molecular, Enlaces, Repulsión de la Capa de valencia de pares de electrones, Ángulo de enlace, Moléculas Objetivos de aprendizaje sugeridos: A. Reconocer que la forma de la molécula se debe a la repulsión entre los átomos. B. Reconocer que los enlaces no se fijan en su lugar, pero puede girar alrededor en respuesta a las repulsiones.",
+    "Nivel": "",
+    "Area": " Química: Química general"
+  },
+  {
+    "id": 81,
+    "Simulador": "Reaccionantes, Productos y Sobrantes",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/reactants-products-and-leftovers Temas: Reacciones Químicas, Reactivos limitantes Objetivos de aprendizaje sugeridos: A. Reconocer que los átomos son conservados durante una reacción química. B. Usar las experiencias diarias (tal como hacer un sandwiche) para describir lo que un reactante limitante siginifica en las reacciones químicas. C. Identificar el reactante limitante en una reacción química. D. Relaciona el ejemplo del mundo real haciendo sandwiches a las reacciones químicas. E. Predecir los productos y sobrantes después de la reacción, basada en las cantidades de reactantes y proporciones de moléculas en una ecuación química balanceada. F. Predecir las cantidades inicales de reactantes dadas, la cantidad de productos y sobrantes usando el concepto de reactante limitante. G. Traducir representaciones de la materia desde lo simbólico (fórmula química) a molecular (pictórica).",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 82,
+    "Simulador": "Energía en el Parque del Patinador: Fundamentos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/energy-skate-park-basics Server en Línea: https://educacion.colaboraccion.pe/content/99f442b/64d569871f148d296ac650d1/82-Energia-en-el-Parque-del-Patinador-Fundamentos-060823/ Server Escuela: https://c3edu.online/contents/99f442b/64d569871f148d296ac650d1/82-Energia-en-el-Parque-del-Patinador-Fundamentos-060823/ Temas: Conservación de la Energía, Energía Cinética, Energía Potencial, Energía Termal, Energía, Rozamiento Objetivos de aprendizaje sugeridos: A. Explicar el concepto de conservación de la energía mecánica utilizando la energía cinética (EC) y la energía potencial gravitatoria (PE). B. Describir cómo la barra de energía y los gráficos circulares se refieren a la posición y la velocidad. C. Explicar cómo cambiando la Masa del patinador se afecta la energía. (Tabla 1). D. Explicar cómo cambiando la pista de fricción se afecta la energía. (Ficha 2). E. Predecir la posición o la velocidad de cálculo desde la barra de energía y los gráficos circulares. F. Calcular la velocidad o altura en una posición desde la información de una posición diferente. G. Calcular la Energía Cinética y la Energía Potencial en una posición desde la información de una posición diferente. H. Diseñar un parque de patinaje usando los conceptos de energía mecánica y conservación de la energía.",
+    "Nivel": "",
+    "Area": "Física: Movimiento Física: Trabajo, Energía y Poder"
+  },
+  {
+    "id": 83,
+    "Simulador": "Ley de Faraday",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/faradays-law Temas: Leyes de Faraday, Campo Magnético, Imanes Objetivos de aprendizaje sugeridos: A. Explicar lo que sucede cuando el imán se mueve a través de la bobina a velocidades diferentes y cómo esto afecta el brillo de la lámpara, la magnitud y el signo de la tensión. B. Explicar la diferencia entre el imán en movimiento a través de la bobina de la derecha versus el lado izquierdo. C. Explicar la diferencia entre el movimiento del imán a través de la bobina grande en comparación con la bobina más pequeña.",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad"
+  },
+  {
+    "id": 84,
+    "Simulador": "Escala de pH: Conceptos Básicos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/ph-scale-basics Temas: pH, Ácidos, Bases, Dilución Objetivos de aprendizaje sugeridos: A. Determinar si una solución es ácida, básica o neutra. B. Colocar ácidos o bases en orden de alcalinidad o acidez relativa. C. Relacionar el color del líquido al pH. D. Predecir cómo el volumen de la solución o dilución con agua afectará el pH de ácidos o bases.",
+    "Nivel": "",
+    "Area": " Química: Química general"
+  },
+  {
+    "id": 85,
+    "Simulador": "Constructor de Áreas",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/area-builder Temas: Área, Perímetro, Áreas Fraccionales, Factores de escala Objetivos de aprendizaje sugeridos: A. Encontrar el área de una figura contando unidades cuadradas B. describir la relación entre el área y el perímetro C. Construir formas con un área y / o perímetro dado D. Encontrar el área de una forma irregular por la descomposición en partes más pequeñas, formas regulares (por ejemplo, rectángulos, triángulos, cuadrados) E. Determinar el factor de escala de figuras similares. F. Generalizar cómo el área y el perímetro cambian cuando la figura se escala.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 86,
+    "Simulador": "Ondas en una cuerda",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/wave-on-a-string Temas: Ondas, Frecuencia, Amplitud, Amortiguación Objetivos de aprendizaje sugeridos: A. Discutir propiedades de onda utilizando un vocabulario común. B. Predecir el comportamiento de las ondas mediante la variación del medio y en los extremos de reflexión.",
+    "Nivel": "",
+    "Area": "Física: Sonido y Ondas Química: Química general Ciencia de la Tierra Matemática: Aplicaciones"
+  },
+  {
+    "id": 87,
+    "Simulador": "La Visión del Color",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/color-vision Server en Línea: https://educacion.colaboraccion.pe/content/99f442b/64d569291f148d296ac65087/87-color-vision-060823/ Server Escuela: https://c3edu.online/contents/99f442b/64d569291f148d296ac65087/87-color-vision-060823/ Temas: Fotones, Luz Monocromática, Luz Blanca, Arco iris Objetivos de aprendizaje sugeridos: A. Determinar qué color la persona ve para diversas combinaciones de rojo, verde y azul. B. Describir el color de la luz que es capaz de pasar a través de filtros de diferentes colores.",
+    "Nivel": "",
+    "Area": "Física: Luz y Radiación Biología"
+  },
+  {
+    "id": 88,
+    "Simulador": "Escala de PH",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/ph-scale Temas: pH, Difusión, Concentración, Ácidos, Bases Objetivos de aprendizaje sugeridos: A. Determinar si un líquido es ácida, básica o neutral. Localizar ácidos o bases en orden relativo. B. Describir en una escala molecular, con ilustraciones, cómo el equilibrio del agua varía con el pH. C. Determinar la concentración de hidróxido, hidronio y agua en un pH determinado. Relacionar el color del líquido al pH. D. Predecir (cualitativa y cuantitativamente) cómo la dilución y el volumen afectarán el pH y la concentración de hidróxido, hidronio y agua.",
+    "Nivel": "",
+    "Area": "Biología Química: Química general Ciencia de la Tierra"
+  },
+  {
+    "id": 89,
+    "Simulador": "Balanceando Ecuaciones Químicas",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/balancing-chemical-equations Temas: Ecuaciones Químicas, Conservación de la Masa Objetivos de aprendizaje sugeridos: A. Balancear una ecuación química. B. Reconocer que el número de átomos de cada elemento es conservado en una reacción química. C. Describir la diferencia entre los coeficientes y subíndices en una ecuación química. D. Traducir de lo simbólico a representaciones moleculares de la materia.",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 90,
+    "Simulador": "Graficando Líneas",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/graphing-lines Temas: Graficando Ecuaciones Lineales, Líneas, Pendiente Objetivos de aprendizaje sugeridos: A. Explicar cómo la pendiente de una línea graficada se puede calcular. B. Graficar una línea dada una ecuación, ya sea en forma pendiente-intersección o punto-pendiente. C. Escribir una ecuación en la forma pendiente-intersección o punto-pendiente dada una línea representada. D. Predecir cómo el cambio de variables en una ecuación lineal afectará a la línea representada.",
+    "Nivel": "",
+    "Area": "Matemática: Conceptos"
+  },
+  {
+    "id": 91,
+    "Simulador": "Emparejador de Fracciones",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/fraction-matcher Server en Línea: https://educacion.colaboraccion.pe/content/99f442b/64d568b11f148d296ac65025/91-Emparejador-fraciones-060823/ Server Escuela: https://c3edu.online/contents/99f442b/64d568b11f148d296ac65025/91-Emparejador-fraciones-060823/  Temas: Fracciones, Fracciones Equivalentes, Números Mixtos Objetivos de aprendizaje sugeridos: A. Encontrar y emparejar (enlazar) fracciones cuyos números y gráficos coinciden. B. Haz las mismas fracciones usando diferentes números. C. Emparejar fracciones en diferentes modelos de imágenes. D. Comparar fracciones usando números y modelos.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  },
+  {
+    "id": 92,
+    "Simulador": "Ley de Equilibrio",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/balancing-act Temas: Equilibrio, Razonamiento Proporcional, Torque, Brazo de Palanca, Equilibrio Rotacional Objetivos de aprendizaje sugeridos: A. Predecir cómo los objetos de diferentes masas pueden ser usados para equilibrar la tabla. B. Predecir cómo los cambios en las posiciones de las masas en el tablón afectarán el movimiento de la tabla. C. Escribir leyes o reglas para predecir de qué manera una tabla se inclina hacia delante cuando se colocan los objetos en él. D. Utilizar las leyes o reglas para resolver los rompecabezas (puzzles) sobre equilibrio.",
+    "Nivel": "",
+    "Area": "Física: Movimiento Matemática: Aplicaciones"
+  },
+  {
+    "id": 93,
+    "Simulador": "Soluciones Ácido-Base",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/acid-base-solutions Temas: Ácidos, Bases, Equilibrio, Disociación, Soluciones Objetivos de aprendizaje sugeridos: Dado los ácidos o bases en la misma concentración, demuestre que comprende la fuerza de los ácidos y bases mediante: A. Relacionar la fuerza de un ácido o base a medida en que se disocian en el agua B. Identificar todas las moléculas e iones que están presentes en una determinada solución de ácido o base. C. Comparar las concentraciones relativas de las moléculas e iones débiles en soluciones de ácido (o base) fuertes versus débiles. D. Describir las similitudes y diferencias entre los ácidos fuertes y ácidos débiles o bases fuertes y bases débiles. Demostrar entender la concentración de la solución al: A. Describir las similitudes y diferencias entre las soluciones concentradas y diluidas. B. Comparar las concentraciones de todas las moléculas y los iones en las soluciones concentradas versus débiles de un cierto ácido o base. Utilizar la fuerza del ácido o la base y la concentración de la solución con el fin de: A. Describir con palabras e imágenes (dibujos o gráficos moleculares) qué significa si usted tiene una: solución concentrada de ácido débil (o base) o una solución concentrada de ácido fuerte (o base) u otras combinaciones. B. Investiga las diferentes combinaciones de fuerza / concentración que resulten con valores de pH iguales. Describir cómo los instrumentos comunes (medidor de pH, conductividad, pH de papel) ayudan a identificar si una solución es un ácido o base, fuerte o débil o diluida o concentrada.",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 94,
+    "Simulador": "Bajo Presión",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/under-pressure Temas: Presión, Fluidos, Densidad Objetivos de aprendizaje sugeridos: A. Describir cómo cambia la presión en el aire y el agua en función de la profundidad. B. Describir qué variables afectan la presión. C. Predecir la presión en una variedad de situaciones.",
+    "Nivel": "",
+    "Area": "Ciencia de la Tierra"
+  },
+  {
+    "id": 95,
+    "Simulador": "Fricción",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/friction Temas: Rozamiento, Termodinámica, Calor Objetivos de aprendizaje sugeridos: A. Describir un modelo de fricción a nivel molecular. B. Describir la materia en términos del movimiento molecular. C. La descripción debe incluir: diagramas de apoyo a la descripción, cómo la temperatura afecta la imagen, cuáles son las diferencias y similitudes entre los sólidos, líquidos y partículas en movimiento de gas, cómo el tamaño y la velocidad de las moléculas de gas se relacionan con los objetos cotidianos.",
+    "Nivel": "",
+    "Area": "Física: Movimiento"
+  },
+  {
+    "id": 96,
+    "Simulador": "Fuerzas y Movimiento: Fundamentos",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/forces-and-motion-basics Temas: Fuerza, Movimiento, Rozamiento, Velocidad(rapidez), Primera ley de Newton Objetivos de aprendizaje sugeridos: A. Identificar, cuándo las fuerzas están balanceadas(equilibradas) o desbalanceadas (no equilibradas). B. Determinar la suma de fuerzas (fuerza neta) en un objeto con más de una fuerza sobre él. C. Predecir el movimiento de un objeto con fuerza neta igual a cero. D. Predecir la dirección de movimiento dada una combinación de fuerzas.",
+    "Nivel": "",
+    "Area": "Física: Movimiento"
+  },
+  {
+    "id": 97,
+    "Simulador": "John Travoltaje",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/john-travoltage Temas: Electricidad Estática Objetivos de aprendizaje sugeridos: Describir y dibujar modelos para los conceptos comunes de electricidad estática (transferencia de carga, atracción, repulsión, y puesta a tierra).",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad"
+  },
+  {
+    "id": 98,
+    "Simulador": "Concentración",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/concentration Temas: Soluciones, Concentración, Saturación, Molaridad, Moles, Volumen, Solubilidad Objetivos de aprendizaje sugeridos: A. Describir las relaciones entre el volumen y la cantidad de soluto de la concentración de la solución. B. Explicar cómo el color y la concentración de la solución están relacionados. C. Predecir cómo va a cambiar la concentración de la solución para cualquier acción (o conjunto de acciones) al agregar o eliminar agua, soluto, o una solución, y explicar por qué. D. Diseñar un procedimiento para crear una solución de una concentración dada. E. Diseñar y justificar un procedimiento para cambiar una solución de una concentración a otro. F. Identificar cuándo una solución está saturada y predecir cómo la concentración cambiará para alguna acción o conjunto de acciones donde cambia el agua o soluto.",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 99,
+    "Simulador": "Laboratorio de Fuerza Gravitacional",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/gravity-force-lab Temas: Fuerza Gravitacional, Ley Inversa del Cuadrado, Parejas de Fuerza, Tercera Ley de Newton Objetivos de aprendizaje sugeridos: A. Relacionar la fuerza gravitacional de las masas de los objetos y la distancia entre ellos. B. Explicar la tercera ley de Newton para las fuerzas de gravedad. C. Diseñar experimentos que le permiten obtener una ecuación que relaciona la masa, la distancia y la fuerza gravitacional. D. Usar mediciones para determinar la constante de gravitación universal.",
+    "Nivel": "",
+    "Area": "Física: Movimiento Ciencia de la Tierra"
+  },
+  {
+    "id": 100,
+    "Simulador": "Globos y Electricidad Estática",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/balloons-and-static-electricity Temas: Electricidad Estática, Cargas Eléctricas, Fuerza Eléctrica Objetivos de aprendizaje sugeridos: A. Describir y dibujar modelos de conceptos comunes electricidad estática (transferencia de carga, inducción, atracción, repulsión, y conexión a tierra) B. Hacer predicciones sobre la fuerza a una distancia determinada para varias configuraciones de carga.",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad Química: Química general Ciencia de la Tierra"
+  },
+  {
+    "id": 101,
+    "Simulador": "Laboratorio de la Ley de Beer",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/beers-law-lab Temas: Ley de Beer, Soluciones, Concentración, Molaridad, Luz, Absorbancia, Transmitancia, Espectrofotometría Objetivos de aprendizaje sugeridos: A. Describe las relaciones entre volumen y la cantidad de soluto de la concentración de solución B. Explicar cualitativamente la relación entre el color de la solución y la concentración C. Predecir y explicar cómo la concentración de la solución va a cambiar al añadir o retirar: agua, soluto, y / o solución D. Calcular la concentración de las soluciones en unidades de molaridad (mol / L) E. Diseñar un procedimiento para la creación de una solución de una determinada concentración F. Identificar cuándo una solución está saturada y predecir cómo va a cambiar la concentración al añadir o retirar: agua, soluto, y / o solución G. Describir la relación entre la concentración de la solución y la intensidad de la luz que es absorbida / transmitida H. Describir la relación entre la absorbancia, absortividad molar, longitud de trayectoria, y concentración en la Ley de Beer I. Predecir cómo la intensidad de la luz absorbida / transmitida va a cambiar con los cambios en el tipo de solución, concentración de la solución, el ancho contenedor, o fuente de luz, y explicar por qué",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 102,
+    "Simulador": "Molaridad",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/molarity Temas: Soluciones, Molaridad, Moles, Volumen, Solubilidad, Saturación Objetivos de aprendizaje sugeridos: A. Describir las relaciones entre volumen y cantidad de soluto en una concentración. B. Explicar cómo el color y la concentración de una solución están relacionados. C. Calcular la concentración de las soluciones en unidades de molaridad (mol / l). D. Utilizar la molaridad para calcular la dilución de las soluciones. E. Comparar los límites de solubilidad entre solutos.",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 103,
+    "Simulador": "Ley de Ohm",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/ohms-law Temas: Ley de Ohm, Circuitos, Corriente, Resistencia, Voltaje Objetivos de aprendizaje sugeridos: A. Predecir cómo la corriente cambiará cuando la resistencia del circuito es fija y la tensión es variada. B. Predecir cómo la corriente cambiará cuando la tensión del circuito es fija y la resistencia es variada.",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad Matemática: Aplicaciones"
+  },
+  {
+    "id": 104,
+    "Simulador": "Resistencia en un Alambre",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/resistance-in-a-wire Temas: Resistividad, Resistencia, Circuitos Objetivos de aprendizaje sugeridos: A. Predecir cómo cambiando cada variable afectará la resistencia. Explicar la diferencia entre resistencia y resistividad.",
+    "Nivel": "",
+    "Area": "Física: Imanes y circuitos de electricidad Matemática: Aplicaciones"
+  },
+  {
+    "id": 105,
+    "Simulador": "Construye un Átomo",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/build-an-atom Temas: Átomos, Estructura Atómica, Símbolos de Isótopos, Núcleo Atómico Objetivos de aprendizaje sugeridos: A. Utilizar el número de protones, neutrones y electrones para dibujar un modelo del átomo, identificar el elemento, y determinar la masa y carga. B. Predecir cómo la adición o sustracción de un protón, neutrón, o electrón cambiará el elemento, la carga, y la masa. C. Usar el nombre del elemento, la masa y de carga para determinar el número de protones, neutrones y electrones. D. Definir protón, neutrón, electrón, átomo e ión. Generar un símbolo isotópico para un átomo, dado el número de protones, neutrones, y electrones.",
+    "Nivel": "",
+    "Area": "Química: Química general"
+  },
+  {
+    "id": 106,
+    "Simulador": "Cuadrilátero",
+    "Referencias": "URL: https://phet.colorado.edu/es_PE/simulations/quadrilateral Temas: Geometría Objetivos de aprendizaje sugeridos: A. Predecir cómo mover un lado o una esquina cambiará o mantendrá la forma nombrada actual. B. Determinar las similitudes y diferencias entre los cuadriláteros observando las medidas de sus lados, ángulos y diagonales y comprender que los atributos compartidos pueden definir una categoría más grande. C. Clasificar cuadriláteros según la presencia o ausencia de líneas paralelas o perpendiculares, o la presencia o ausencia de ángulos iguales o rectos. D. Clasificar cuadriláteros en una jerarquía según propiedades geométricas compartidas.",
+    "Nivel": "",
+    "Area": " Matemática: Conceptos"
+  }
+]
